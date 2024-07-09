@@ -1,0 +1,13 @@
+CompileFlags: # Tweak the parse settings
+    Add: [
+        -xc++,
+        -std=c++17,
+        -IC:/CC/src/sandbox/gl_playground/src, #need full path
+        -IC:/CC/src/sandbox/gl_playground/vendor/,
+        -IC:/CC/src/sandbox/gl_playground/vendor/assimp/include,
+        -IC:/CC/src/sandbox/gl_playground/vendor/glad/include,
+        -IC:/CC/src/sandbox/gl_playground/vendor/glfw/include,
+        -IC:/CC/src/sandbox/gl_playground/vendor/glm,
+        -IC:/CC/src/sandbox/gl_playground/vendor/imgui,
+        -IC:/CC/src/sandbox/gl_playground/vendor/spdlog/include,
+        ]

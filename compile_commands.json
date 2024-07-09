@@ -1,0 +1,224 @@
+[
+{
+  "directory": "C:/CC/src/sandbox/gl_playground/build_w",
+  "command": "F:\\cc\\programs\\LLVM\\bin\\clang++.exe -IC:/CC/src/sandbox/gl_playground/src -IC:/CC/src/sandbox/gl_playground/vendor/assimp/include -IC:/CC/src/sandbox/gl_playground/vendor/glad/include -IC:/CC/src/sandbox/gl_playground/vendor/glfw/include -IC:/CC/src/sandbox/gl_playground/vendor/glm -IC:/CC/src/sandbox/gl_playground/vendor/imgui -IC:/CC/src/sandbox/gl_playground/vendor -IC:/CC/src/sandbox/gl_playground/vendor/spdlog/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\app\\app.cc.obj -c C:\\CC\\src\\sandbox\\gl_playground\\src\\app\\app.cc",
+  "file": "C:\\CC\\src\\sandbox\\gl_playground\\src\\app\\app.cc",
+  "output": "demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\app\\app.cc.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/gl_playground/build_w",
+  "command": "F:\\cc\\programs\\LLVM\\bin\\clang++.exe -IC:/CC/src/sandbox/gl_playground/src -IC:/CC/src/sandbox/gl_playground/vendor/assimp/include -IC:/CC/src/sandbox/gl_playground/vendor/glad/include -IC:/CC/src/sandbox/gl_playground/vendor/glfw/include -IC:/CC/src/sandbox/gl_playground/vendor/glm -IC:/CC/src/sandbox/gl_playground/vendor/imgui -IC:/CC/src/sandbox/gl_playground/vendor -IC:/CC/src/sandbox/gl_playground/vendor/spdlog/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\camera\\camera.cc.obj -c C:\\CC\\src\\sandbox\\gl_playground\\src\\camera\\camera.cc",
+  "file": "C:\\CC\\src\\sandbox\\gl_playground\\src\\camera\\camera.cc",
+  "output": "demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\camera\\camera.cc.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/gl_playground/build_w",
+  "command": "F:\\cc\\programs\\LLVM\\bin\\clang++.exe -IC:/CC/src/sandbox/gl_playground/src -IC:/CC/src/sandbox/gl_playground/vendor/assimp/include -IC:/CC/src/sandbox/gl_playground/vendor/glad/include -IC:/CC/src/sandbox/gl_playground/vendor/glfw/include -IC:/CC/src/sandbox/gl_playground/vendor/glm -IC:/CC/src/sandbox/gl_playground/vendor/imgui -IC:/CC/src/sandbox/gl_playground/vendor -IC:/CC/src/sandbox/gl_playground/vendor/spdlog/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\camera\\cameraController\\orbitController.cc.obj -c C:\\CC\\src\\sandbox\\gl_playground\\src\\camera\\cameraController\\orbitController.cc",
+  "file": "C:\\CC\\src\\sandbox\\gl_playground\\src\\camera\\cameraController\\orbitController.cc",
+  "output": "demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\camera\\cameraController\\orbitController.cc.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/gl_playground/build_w",
+  "command": "F:\\cc\\programs\\LLVM\\bin\\clang++.exe -IC:/CC/src/sandbox/gl_playground/src -IC:/CC/src/sandbox/gl_playground/vendor/assimp/include -IC:/CC/src/sandbox/gl_playground/vendor/glad/include -IC:/CC/src/sandbox/gl_playground/vendor/glfw/include -IC:/CC/src/sandbox/gl_playground/vendor/glm -IC:/CC/src/sandbox/gl_playground/vendor/imgui -IC:/CC/src/sandbox/gl_playground/vendor -IC:/CC/src/sandbox/gl_playground/vendor/spdlog/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\glBuffer\\frameBuffer.cc.obj -c C:\\CC\\src\\sandbox\\gl_playground\\src\\glBuffer\\frameBuffer.cc",
+  "file": "C:\\CC\\src\\sandbox\\gl_playground\\src\\glBuffer\\frameBuffer.cc",
+  "output": "demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\glBuffer\\frameBuffer.cc.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/gl_playground/build_w",
+  "command": "F:\\cc\\programs\\LLVM\\bin\\clang++.exe -IC:/CC/src/sandbox/gl_playground/src -IC:/CC/src/sandbox/gl_playground/vendor/assimp/include -IC:/CC/src/sandbox/gl_playground/vendor/glad/include -IC:/CC/src/sandbox/gl_playground/vendor/glfw/include -IC:/CC/src/sandbox/gl_playground/vendor/glm -IC:/CC/src/sandbox/gl_playground/vendor/imgui -IC:/CC/src/sandbox/gl_playground/vendor -IC:/CC/src/sandbox/gl_playground/vendor/spdlog/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\glBuffer\\indexBuffer.cc.obj -c C:\\CC\\src\\sandbox\\gl_playground\\src\\glBuffer\\indexBuffer.cc",
+  "file": "C:\\CC\\src\\sandbox\\gl_playground\\src\\glBuffer\\indexBuffer.cc",
+  "output": "demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\glBuffer\\indexBuffer.cc.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/gl_playground/build_w",
+  "command": "F:\\cc\\programs\\LLVM\\bin\\clang++.exe -IC:/CC/src/sandbox/gl_playground/src -IC:/CC/src/sandbox/gl_playground/vendor/assimp/include -IC:/CC/src/sandbox/gl_playground/vendor/glad/include -IC:/CC/src/sandbox/gl_playground/vendor/glfw/include -IC:/CC/src/sandbox/gl_playground/vendor/glm -IC:/CC/src/sandbox/gl_playground/vendor/imgui -IC:/CC/src/sandbox/gl_playground/vendor -IC:/CC/src/sandbox/gl_playground/vendor/spdlog/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\glBuffer\\multiSampleRenderBuffer.cc.obj -c C:\\CC\\src\\sandbox\\gl_playground\\src\\glBuffer\\multiSampleRenderBuffer.cc",
+  "file": "C:\\CC\\src\\sandbox\\gl_playground\\src\\glBuffer\\multiSampleRenderBuffer.cc",
+  "output": "demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\glBuffer\\multiSampleRenderBuffer.cc.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/gl_playground/build_w",
+  "command": "F:\\cc\\programs\\LLVM\\bin\\clang++.exe -IC:/CC/src/sandbox/gl_playground/src -IC:/CC/src/sandbox/gl_playground/vendor/assimp/include -IC:/CC/src/sandbox/gl_playground/vendor/glad/include -IC:/CC/src/sandbox/gl_playground/vendor/glfw/include -IC:/CC/src/sandbox/gl_playground/vendor/glm -IC:/CC/src/sandbox/gl_playground/vendor/imgui -IC:/CC/src/sandbox/gl_playground/vendor -IC:/CC/src/sandbox/gl_playground/vendor/spdlog/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\glBuffer\\renderBuffer.cc.obj -c C:\\CC\\src\\sandbox\\gl_playground\\src\\glBuffer\\renderBuffer.cc",
+  "file": "C:\\CC\\src\\sandbox\\gl_playground\\src\\glBuffer\\renderBuffer.cc",
+  "output": "demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\glBuffer\\renderBuffer.cc.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/gl_playground/build_w",
+  "command": "F:\\cc\\programs\\LLVM\\bin\\clang++.exe -IC:/CC/src/sandbox/gl_playground/src -IC:/CC/src/sandbox/gl_playground/vendor/assimp/include -IC:/CC/src/sandbox/gl_playground/vendor/glad/include -IC:/CC/src/sandbox/gl_playground/vendor/glfw/include -IC:/CC/src/sandbox/gl_playground/vendor/glm -IC:/CC/src/sandbox/gl_playground/vendor/imgui -IC:/CC/src/sandbox/gl_playground/vendor -IC:/CC/src/sandbox/gl_playground/vendor/spdlog/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\glBuffer\\vertexArray.cc.obj -c C:\\CC\\src\\sandbox\\gl_playground\\src\\glBuffer\\vertexArray.cc",
+  "file": "C:\\CC\\src\\sandbox\\gl_playground\\src\\glBuffer\\vertexArray.cc",
+  "output": "demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\glBuffer\\vertexArray.cc.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/gl_playground/build_w",
+  "command": "F:\\cc\\programs\\LLVM\\bin\\clang++.exe -IC:/CC/src/sandbox/gl_playground/src -IC:/CC/src/sandbox/gl_playground/vendor/assimp/include -IC:/CC/src/sandbox/gl_playground/vendor/glad/include -IC:/CC/src/sandbox/gl_playground/vendor/glfw/include -IC:/CC/src/sandbox/gl_playground/vendor/glm -IC:/CC/src/sandbox/gl_playground/vendor/imgui -IC:/CC/src/sandbox/gl_playground/vendor -IC:/CC/src/sandbox/gl_playground/vendor/spdlog/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\glBuffer\\vertexBuffer.cc.obj -c C:\\CC\\src\\sandbox\\gl_playground\\src\\glBuffer\\vertexBuffer.cc",
+  "file": "C:\\CC\\src\\sandbox\\gl_playground\\src\\glBuffer\\vertexBuffer.cc",
+  "output": "demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\glBuffer\\vertexBuffer.cc.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/gl_playground/build_w",
+  "command": "F:\\cc\\programs\\LLVM\\bin\\clang++.exe -IC:/CC/src/sandbox/gl_playground/src -IC:/CC/src/sandbox/gl_playground/vendor/assimp/include -IC:/CC/src/sandbox/gl_playground/vendor/glad/include -IC:/CC/src/sandbox/gl_playground/vendor/glfw/include -IC:/CC/src/sandbox/gl_playground/vendor/glm -IC:/CC/src/sandbox/gl_playground/vendor/imgui -IC:/CC/src/sandbox/gl_playground/vendor -IC:/CC/src/sandbox/gl_playground/vendor/spdlog/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\lights\\lights.cc.obj -c C:\\CC\\src\\sandbox\\gl_playground\\src\\lights\\lights.cc",
+  "file": "C:\\CC\\src\\sandbox\\gl_playground\\src\\lights\\lights.cc",
+  "output": "demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\lights\\lights.cc.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/gl_playground/build_w",
+  "command": "F:\\cc\\programs\\LLVM\\bin\\clang++.exe -IC:/CC/src/sandbox/gl_playground/src -IC:/CC/src/sandbox/gl_playground/vendor/assimp/include -IC:/CC/src/sandbox/gl_playground/vendor/glad/include -IC:/CC/src/sandbox/gl_playground/vendor/glfw/include -IC:/CC/src/sandbox/gl_playground/vendor/glm -IC:/CC/src/sandbox/gl_playground/vendor/imgui -IC:/CC/src/sandbox/gl_playground/vendor -IC:/CC/src/sandbox/gl_playground/vendor/spdlog/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\material\\material.cc.obj -c C:\\CC\\src\\sandbox\\gl_playground\\src\\material\\material.cc",
+  "file": "C:\\CC\\src\\sandbox\\gl_playground\\src\\material\\material.cc",
+  "output": "demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\material\\material.cc.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/gl_playground/build_w",
+  "command": "F:\\cc\\programs\\LLVM\\bin\\clang++.exe -IC:/CC/src/sandbox/gl_playground/src -IC:/CC/src/sandbox/gl_playground/vendor/assimp/include -IC:/CC/src/sandbox/gl_playground/vendor/glad/include -IC:/CC/src/sandbox/gl_playground/vendor/glfw/include -IC:/CC/src/sandbox/gl_playground/vendor/glm -IC:/CC/src/sandbox/gl_playground/vendor/imgui -IC:/CC/src/sandbox/gl_playground/vendor -IC:/CC/src/sandbox/gl_playground/vendor/spdlog/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\material\\shader.cc.obj -c C:\\CC\\src\\sandbox\\gl_playground\\src\\material\\shader.cc",
+  "file": "C:\\CC\\src\\sandbox\\gl_playground\\src\\material\\shader.cc",
+  "output": "demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\material\\shader.cc.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/gl_playground/build_w",
+  "command": "F:\\cc\\programs\\LLVM\\bin\\clang++.exe -IC:/CC/src/sandbox/gl_playground/src -IC:/CC/src/sandbox/gl_playground/vendor/assimp/include -IC:/CC/src/sandbox/gl_playground/vendor/glad/include -IC:/CC/src/sandbox/gl_playground/vendor/glfw/include -IC:/CC/src/sandbox/gl_playground/vendor/glm -IC:/CC/src/sandbox/gl_playground/vendor/imgui -IC:/CC/src/sandbox/gl_playground/vendor -IC:/CC/src/sandbox/gl_playground/vendor/spdlog/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\material\\shaderProgram.cc.obj -c C:\\CC\\src\\sandbox\\gl_playground\\src\\material\\shaderProgram.cc",
+  "file": "C:\\CC\\src\\sandbox\\gl_playground\\src\\material\\shaderProgram.cc",
+  "output": "demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\material\\shaderProgram.cc.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/gl_playground/build_w",
+  "command": "F:\\cc\\programs\\LLVM\\bin\\clang++.exe -IC:/CC/src/sandbox/gl_playground/src -IC:/CC/src/sandbox/gl_playground/vendor/assimp/include -IC:/CC/src/sandbox/gl_playground/vendor/glad/include -IC:/CC/src/sandbox/gl_playground/vendor/glfw/include -IC:/CC/src/sandbox/gl_playground/vendor/glm -IC:/CC/src/sandbox/gl_playground/vendor/imgui -IC:/CC/src/sandbox/gl_playground/vendor -IC:/CC/src/sandbox/gl_playground/vendor/spdlog/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\model\\aabb.cc.obj -c C:\\CC\\src\\sandbox\\gl_playground\\src\\model\\aabb.cc",
+  "file": "C:\\CC\\src\\sandbox\\gl_playground\\src\\model\\aabb.cc",
+  "output": "demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\model\\aabb.cc.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/gl_playground/build_w",
+  "command": "F:\\cc\\programs\\LLVM\\bin\\clang++.exe -IC:/CC/src/sandbox/gl_playground/src -IC:/CC/src/sandbox/gl_playground/vendor/assimp/include -IC:/CC/src/sandbox/gl_playground/vendor/glad/include -IC:/CC/src/sandbox/gl_playground/vendor/glfw/include -IC:/CC/src/sandbox/gl_playground/vendor/glm -IC:/CC/src/sandbox/gl_playground/vendor/imgui -IC:/CC/src/sandbox/gl_playground/vendor -IC:/CC/src/sandbox/gl_playground/vendor/spdlog/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\model\\mesh.cc.obj -c C:\\CC\\src\\sandbox\\gl_playground\\src\\model\\mesh.cc",
+  "file": "C:\\CC\\src\\sandbox\\gl_playground\\src\\model\\mesh.cc",
+  "output": "demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\model\\mesh.cc.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/gl_playground/build_w",
+  "command": "F:\\cc\\programs\\LLVM\\bin\\clang++.exe -IC:/CC/src/sandbox/gl_playground/src -IC:/CC/src/sandbox/gl_playground/vendor/assimp/include -IC:/CC/src/sandbox/gl_playground/vendor/glad/include -IC:/CC/src/sandbox/gl_playground/vendor/glfw/include -IC:/CC/src/sandbox/gl_playground/vendor/glm -IC:/CC/src/sandbox/gl_playground/vendor/imgui -IC:/CC/src/sandbox/gl_playground/vendor -IC:/CC/src/sandbox/gl_playground/vendor/spdlog/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\model\\model.cc.obj -c C:\\CC\\src\\sandbox\\gl_playground\\src\\model\\model.cc",
+  "file": "C:\\CC\\src\\sandbox\\gl_playground\\src\\model\\model.cc",
+  "output": "demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\model\\model.cc.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/gl_playground/build_w",
+  "command": "F:\\cc\\programs\\LLVM\\bin\\clang++.exe -IC:/CC/src/sandbox/gl_playground/src -IC:/CC/src/sandbox/gl_playground/vendor/assimp/include -IC:/CC/src/sandbox/gl_playground/vendor/glad/include -IC:/CC/src/sandbox/gl_playground/vendor/glfw/include -IC:/CC/src/sandbox/gl_playground/vendor/glm -IC:/CC/src/sandbox/gl_playground/vendor/imgui -IC:/CC/src/sandbox/gl_playground/vendor -IC:/CC/src/sandbox/gl_playground/vendor/spdlog/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\model\\object.cc.obj -c C:\\CC\\src\\sandbox\\gl_playground\\src\\model\\object.cc",
+  "file": "C:\\CC\\src\\sandbox\\gl_playground\\src\\model\\object.cc",
+  "output": "demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\model\\object.cc.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/gl_playground/build_w",
+  "command": "F:\\cc\\programs\\LLVM\\bin\\clang++.exe -IC:/CC/src/sandbox/gl_playground/src -IC:/CC/src/sandbox/gl_playground/vendor/assimp/include -IC:/CC/src/sandbox/gl_playground/vendor/glad/include -IC:/CC/src/sandbox/gl_playground/vendor/glfw/include -IC:/CC/src/sandbox/gl_playground/vendor/glm -IC:/CC/src/sandbox/gl_playground/vendor/imgui -IC:/CC/src/sandbox/gl_playground/vendor -IC:/CC/src/sandbox/gl_playground/vendor/spdlog/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\scene\\scene.cc.obj -c C:\\CC\\src\\sandbox\\gl_playground\\src\\scene\\scene.cc",
+  "file": "C:\\CC\\src\\sandbox\\gl_playground\\src\\scene\\scene.cc",
+  "output": "demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\scene\\scene.cc.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/gl_playground/build_w",
+  "command": "F:\\cc\\programs\\LLVM\\bin\\clang++.exe -IC:/CC/src/sandbox/gl_playground/src -IC:/CC/src/sandbox/gl_playground/vendor/assimp/include -IC:/CC/src/sandbox/gl_playground/vendor/glad/include -IC:/CC/src/sandbox/gl_playground/vendor/glfw/include -IC:/CC/src/sandbox/gl_playground/vendor/glm -IC:/CC/src/sandbox/gl_playground/vendor/imgui -IC:/CC/src/sandbox/gl_playground/vendor -IC:/CC/src/sandbox/gl_playground/vendor/spdlog/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\texture\\colorBufferTexture.cc.obj -c C:\\CC\\src\\sandbox\\gl_playground\\src\\texture\\colorBufferTexture.cc",
+  "file": "C:\\CC\\src\\sandbox\\gl_playground\\src\\texture\\colorBufferTexture.cc",
+  "output": "demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\texture\\colorBufferTexture.cc.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/gl_playground/build_w",
+  "command": "F:\\cc\\programs\\LLVM\\bin\\clang++.exe -IC:/CC/src/sandbox/gl_playground/src -IC:/CC/src/sandbox/gl_playground/vendor/assimp/include -IC:/CC/src/sandbox/gl_playground/vendor/glad/include -IC:/CC/src/sandbox/gl_playground/vendor/glfw/include -IC:/CC/src/sandbox/gl_playground/vendor/glm -IC:/CC/src/sandbox/gl_playground/vendor/imgui -IC:/CC/src/sandbox/gl_playground/vendor -IC:/CC/src/sandbox/gl_playground/vendor/spdlog/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\texture\\cubeMapTexture.cc.obj -c C:\\CC\\src\\sandbox\\gl_playground\\src\\texture\\cubeMapTexture.cc",
+  "file": "C:\\CC\\src\\sandbox\\gl_playground\\src\\texture\\cubeMapTexture.cc",
+  "output": "demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\texture\\cubeMapTexture.cc.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/gl_playground/build_w",
+  "command": "F:\\cc\\programs\\LLVM\\bin\\clang++.exe -IC:/CC/src/sandbox/gl_playground/src -IC:/CC/src/sandbox/gl_playground/vendor/assimp/include -IC:/CC/src/sandbox/gl_playground/vendor/glad/include -IC:/CC/src/sandbox/gl_playground/vendor/glfw/include -IC:/CC/src/sandbox/gl_playground/vendor/glm -IC:/CC/src/sandbox/gl_playground/vendor/imgui -IC:/CC/src/sandbox/gl_playground/vendor -IC:/CC/src/sandbox/gl_playground/vendor/spdlog/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\texture\\depthTexture.cc.obj -c C:\\CC\\src\\sandbox\\gl_playground\\src\\texture\\depthTexture.cc",
+  "file": "C:\\CC\\src\\sandbox\\gl_playground\\src\\texture\\depthTexture.cc",
+  "output": "demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\texture\\depthTexture.cc.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/gl_playground/build_w",
+  "command": "F:\\cc\\programs\\LLVM\\bin\\clang++.exe -IC:/CC/src/sandbox/gl_playground/src -IC:/CC/src/sandbox/gl_playground/vendor/assimp/include -IC:/CC/src/sandbox/gl_playground/vendor/glad/include -IC:/CC/src/sandbox/gl_playground/vendor/glfw/include -IC:/CC/src/sandbox/gl_playground/vendor/glm -IC:/CC/src/sandbox/gl_playground/vendor/imgui -IC:/CC/src/sandbox/gl_playground/vendor -IC:/CC/src/sandbox/gl_playground/vendor/spdlog/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\texture\\multiSampleTexture.cc.obj -c C:\\CC\\src\\sandbox\\gl_playground\\src\\texture\\multiSampleTexture.cc",
+  "file": "C:\\CC\\src\\sandbox\\gl_playground\\src\\texture\\multiSampleTexture.cc",
+  "output": "demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\texture\\multiSampleTexture.cc.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/gl_playground/build_w",
+  "command": "F:\\cc\\programs\\LLVM\\bin\\clang++.exe -IC:/CC/src/sandbox/gl_playground/src -IC:/CC/src/sandbox/gl_playground/vendor/assimp/include -IC:/CC/src/sandbox/gl_playground/vendor/glad/include -IC:/CC/src/sandbox/gl_playground/vendor/glfw/include -IC:/CC/src/sandbox/gl_playground/vendor/glm -IC:/CC/src/sandbox/gl_playground/vendor/imgui -IC:/CC/src/sandbox/gl_playground/vendor -IC:/CC/src/sandbox/gl_playground/vendor/spdlog/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\texture\\texture.cc.obj -c C:\\CC\\src\\sandbox\\gl_playground\\src\\texture\\texture.cc",
+  "file": "C:\\CC\\src\\sandbox\\gl_playground\\src\\texture\\texture.cc",
+  "output": "demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\texture\\texture.cc.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/gl_playground/build_w",
+  "command": "F:\\cc\\programs\\LLVM\\bin\\clang++.exe -IC:/CC/src/sandbox/gl_playground/src -IC:/CC/src/sandbox/gl_playground/vendor/assimp/include -IC:/CC/src/sandbox/gl_playground/vendor/glad/include -IC:/CC/src/sandbox/gl_playground/vendor/glfw/include -IC:/CC/src/sandbox/gl_playground/vendor/glm -IC:/CC/src/sandbox/gl_playground/vendor/imgui -IC:/CC/src/sandbox/gl_playground/vendor -IC:/CC/src/sandbox/gl_playground/vendor/spdlog/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\ui\\imgui_style.cc.obj -c C:\\CC\\src\\sandbox\\gl_playground\\src\\ui\\imgui_style.cc",
+  "file": "C:\\CC\\src\\sandbox\\gl_playground\\src\\ui\\imgui_style.cc",
+  "output": "demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\ui\\imgui_style.cc.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/gl_playground/build_w",
+  "command": "F:\\cc\\programs\\LLVM\\bin\\clang++.exe -IC:/CC/src/sandbox/gl_playground/src -IC:/CC/src/sandbox/gl_playground/vendor/assimp/include -IC:/CC/src/sandbox/gl_playground/vendor/glad/include -IC:/CC/src/sandbox/gl_playground/vendor/glfw/include -IC:/CC/src/sandbox/gl_playground/vendor/glm -IC:/CC/src/sandbox/gl_playground/vendor/imgui -IC:/CC/src/sandbox/gl_playground/vendor -IC:/CC/src/sandbox/gl_playground/vendor/spdlog/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\ui\\ui.cc.obj -c C:\\CC\\src\\sandbox\\gl_playground\\src\\ui\\ui.cc",
+  "file": "C:\\CC\\src\\sandbox\\gl_playground\\src\\ui\\ui.cc",
+  "output": "demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\ui\\ui.cc.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/gl_playground/build_w",
+  "command": "F:\\cc\\programs\\LLVM\\bin\\clang++.exe -IC:/CC/src/sandbox/gl_playground/src -IC:/CC/src/sandbox/gl_playground/vendor/assimp/include -IC:/CC/src/sandbox/gl_playground/vendor/glad/include -IC:/CC/src/sandbox/gl_playground/vendor/glfw/include -IC:/CC/src/sandbox/gl_playground/vendor/glm -IC:/CC/src/sandbox/gl_playground/vendor/imgui -IC:/CC/src/sandbox/gl_playground/vendor -IC:/CC/src/sandbox/gl_playground/vendor/spdlog/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\viewer\\viewer.cc.obj -c C:\\CC\\src\\sandbox\\gl_playground\\src\\viewer\\viewer.cc",
+  "file": "C:\\CC\\src\\sandbox\\gl_playground\\src\\viewer\\viewer.cc",
+  "output": "demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\viewer\\viewer.cc.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/gl_playground/build_w",
+  "command": "F:\\cc\\programs\\LLVM\\bin\\clang++.exe -IC:/CC/src/sandbox/gl_playground/src -IC:/CC/src/sandbox/gl_playground/vendor/assimp/include -IC:/CC/src/sandbox/gl_playground/vendor/glad/include -IC:/CC/src/sandbox/gl_playground/vendor/glfw/include -IC:/CC/src/sandbox/gl_playground/vendor/glm -IC:/CC/src/sandbox/gl_playground/vendor/imgui -IC:/CC/src/sandbox/gl_playground/vendor -IC:/CC/src/sandbox/gl_playground/vendor/spdlog/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\window\\wondow.cc.obj -c C:\\CC\\src\\sandbox\\gl_playground\\src\\window\\wondow.cc",
+  "file": "C:\\CC\\src\\sandbox\\gl_playground\\src\\window\\wondow.cc",
+  "output": "demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\src\\window\\wondow.cc.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/gl_playground/build_w",
+  "command": "F:\\cc\\programs\\LLVM\\bin\\clang++.exe -IC:/CC/src/sandbox/gl_playground/src -IC:/CC/src/sandbox/gl_playground/vendor/assimp/include -IC:/CC/src/sandbox/gl_playground/vendor/glad/include -IC:/CC/src/sandbox/gl_playground/vendor/glfw/include -IC:/CC/src/sandbox/gl_playground/vendor/glm -IC:/CC/src/sandbox/gl_playground/vendor/imgui -IC:/CC/src/sandbox/gl_playground/vendor -IC:/CC/src/sandbox/gl_playground/vendor/spdlog/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\src\\hi_triangle.cc.obj -c C:\\CC\\src\\sandbox\\gl_playground\\demo\\hiTriangle\\src\\hi_triangle.cc",
+  "file": "C:\\CC\\src\\sandbox\\gl_playground\\demo\\hiTriangle\\src\\hi_triangle.cc",
+  "output": "demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\src\\hi_triangle.cc.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/gl_playground/build_w",
+  "command": "F:\\cc\\programs\\LLVM\\bin\\clang++.exe -IC:/CC/src/sandbox/gl_playground/src -IC:/CC/src/sandbox/gl_playground/vendor/assimp/include -IC:/CC/src/sandbox/gl_playground/vendor/glad/include -IC:/CC/src/sandbox/gl_playground/vendor/glfw/include -IC:/CC/src/sandbox/gl_playground/vendor/glm -IC:/CC/src/sandbox/gl_playground/vendor/imgui -IC:/CC/src/sandbox/gl_playground/vendor -IC:/CC/src/sandbox/gl_playground/vendor/spdlog/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\src\\main.cc.obj -c C:\\CC\\src\\sandbox\\gl_playground\\demo\\hiTriangle\\src\\main.cc",
+  "file": "C:\\CC\\src\\sandbox\\gl_playground\\demo\\hiTriangle\\src\\main.cc",
+  "output": "demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\src\\main.cc.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/gl_playground/build_w",
+  "command": "F:\\cc\\programs\\LLVM\\bin\\clang++.exe -IC:/CC/src/sandbox/gl_playground/src -IC:/CC/src/sandbox/gl_playground/vendor/assimp/include -IC:/CC/src/sandbox/gl_playground/vendor/glad/include -IC:/CC/src/sandbox/gl_playground/vendor/glfw/include -IC:/CC/src/sandbox/gl_playground/vendor/glm -IC:/CC/src/sandbox/gl_playground/vendor/imgui -IC:/CC/src/sandbox/gl_playground/vendor -IC:/CC/src/sandbox/gl_playground/vendor/spdlog/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\vendor\\imgui\\imgui.cpp.obj -c C:\\CC\\src\\sandbox\\gl_playground\\vendor\\imgui\\imgui.cpp",
+  "file": "C:\\CC\\src\\sandbox\\gl_playground\\vendor\\imgui\\imgui.cpp",
+  "output": "demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\vendor\\imgui\\imgui.cpp.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/gl_playground/build_w",
+  "command": "F:\\cc\\programs\\LLVM\\bin\\clang++.exe -IC:/CC/src/sandbox/gl_playground/src -IC:/CC/src/sandbox/gl_playground/vendor/assimp/include -IC:/CC/src/sandbox/gl_playground/vendor/glad/include -IC:/CC/src/sandbox/gl_playground/vendor/glfw/include -IC:/CC/src/sandbox/gl_playground/vendor/glm -IC:/CC/src/sandbox/gl_playground/vendor/imgui -IC:/CC/src/sandbox/gl_playground/vendor -IC:/CC/src/sandbox/gl_playground/vendor/spdlog/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\vendor\\imgui\\imgui_demo.cpp.obj -c C:\\CC\\src\\sandbox\\gl_playground\\vendor\\imgui\\imgui_demo.cpp",
+  "file": "C:\\CC\\src\\sandbox\\gl_playground\\vendor\\imgui\\imgui_demo.cpp",
+  "output": "demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\vendor\\imgui\\imgui_demo.cpp.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/gl_playground/build_w",
+  "command": "F:\\cc\\programs\\LLVM\\bin\\clang++.exe -IC:/CC/src/sandbox/gl_playground/src -IC:/CC/src/sandbox/gl_playground/vendor/assimp/include -IC:/CC/src/sandbox/gl_playground/vendor/glad/include -IC:/CC/src/sandbox/gl_playground/vendor/glfw/include -IC:/CC/src/sandbox/gl_playground/vendor/glm -IC:/CC/src/sandbox/gl_playground/vendor/imgui -IC:/CC/src/sandbox/gl_playground/vendor -IC:/CC/src/sandbox/gl_playground/vendor/spdlog/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\vendor\\imgui\\imgui_draw.cpp.obj -c C:\\CC\\src\\sandbox\\gl_playground\\vendor\\imgui\\imgui_draw.cpp",
+  "file": "C:\\CC\\src\\sandbox\\gl_playground\\vendor\\imgui\\imgui_draw.cpp",
+  "output": "demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\vendor\\imgui\\imgui_draw.cpp.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/gl_playground/build_w",
+  "command": "F:\\cc\\programs\\LLVM\\bin\\clang++.exe -IC:/CC/src/sandbox/gl_playground/src -IC:/CC/src/sandbox/gl_playground/vendor/assimp/include -IC:/CC/src/sandbox/gl_playground/vendor/glad/include -IC:/CC/src/sandbox/gl_playground/vendor/glfw/include -IC:/CC/src/sandbox/gl_playground/vendor/glm -IC:/CC/src/sandbox/gl_playground/vendor/imgui -IC:/CC/src/sandbox/gl_playground/vendor -IC:/CC/src/sandbox/gl_playground/vendor/spdlog/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\vendor\\imgui\\imgui_tables.cpp.obj -c C:\\CC\\src\\sandbox\\gl_playground\\vendor\\imgui\\imgui_tables.cpp",
+  "file": "C:\\CC\\src\\sandbox\\gl_playground\\vendor\\imgui\\imgui_tables.cpp",
+  "output": "demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\vendor\\imgui\\imgui_tables.cpp.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/gl_playground/build_w",
+  "command": "F:\\cc\\programs\\LLVM\\bin\\clang++.exe -IC:/CC/src/sandbox/gl_playground/src -IC:/CC/src/sandbox/gl_playground/vendor/assimp/include -IC:/CC/src/sandbox/gl_playground/vendor/glad/include -IC:/CC/src/sandbox/gl_playground/vendor/glfw/include -IC:/CC/src/sandbox/gl_playground/vendor/glm -IC:/CC/src/sandbox/gl_playground/vendor/imgui -IC:/CC/src/sandbox/gl_playground/vendor -IC:/CC/src/sandbox/gl_playground/vendor/spdlog/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\vendor\\imgui\\imgui_widgets.cpp.obj -c C:\\CC\\src\\sandbox\\gl_playground\\vendor\\imgui\\imgui_widgets.cpp",
+  "file": "C:\\CC\\src\\sandbox\\gl_playground\\vendor\\imgui\\imgui_widgets.cpp",
+  "output": "demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\vendor\\imgui\\imgui_widgets.cpp.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/gl_playground/build_w",
+  "command": "F:\\cc\\programs\\LLVM\\bin\\clang++.exe -IC:/CC/src/sandbox/gl_playground/src -IC:/CC/src/sandbox/gl_playground/vendor/assimp/include -IC:/CC/src/sandbox/gl_playground/vendor/glad/include -IC:/CC/src/sandbox/gl_playground/vendor/glfw/include -IC:/CC/src/sandbox/gl_playground/vendor/glm -IC:/CC/src/sandbox/gl_playground/vendor/imgui -IC:/CC/src/sandbox/gl_playground/vendor -IC:/CC/src/sandbox/gl_playground/vendor/spdlog/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\vendor\\imgui\\backends\\imgui_impl_glfw.cpp.obj -c C:\\CC\\src\\sandbox\\gl_playground\\vendor\\imgui\\backends\\imgui_impl_glfw.cpp",
+  "file": "C:\\CC\\src\\sandbox\\gl_playground\\vendor\\imgui\\backends\\imgui_impl_glfw.cpp",
+  "output": "demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\vendor\\imgui\\backends\\imgui_impl_glfw.cpp.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/gl_playground/build_w",
+  "command": "F:\\cc\\programs\\LLVM\\bin\\clang++.exe -IC:/CC/src/sandbox/gl_playground/src -IC:/CC/src/sandbox/gl_playground/vendor/assimp/include -IC:/CC/src/sandbox/gl_playground/vendor/glad/include -IC:/CC/src/sandbox/gl_playground/vendor/glfw/include -IC:/CC/src/sandbox/gl_playground/vendor/glm -IC:/CC/src/sandbox/gl_playground/vendor/imgui -IC:/CC/src/sandbox/gl_playground/vendor -IC:/CC/src/sandbox/gl_playground/vendor/spdlog/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\vendor\\imgui\\backends\\imgui_impl_opengl3.cpp.obj -c C:\\CC\\src\\sandbox\\gl_playground\\vendor\\imgui\\backends\\imgui_impl_opengl3.cpp",
+  "file": "C:\\CC\\src\\sandbox\\gl_playground\\vendor\\imgui\\backends\\imgui_impl_opengl3.cpp",
+  "output": "demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\vendor\\imgui\\backends\\imgui_impl_opengl3.cpp.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/gl_playground/build_w",
+  "command": "F:\\cc\\programs\\LLVM\\bin\\clang.exe -IC:/CC/src/sandbox/gl_playground/src -IC:/CC/src/sandbox/gl_playground/vendor/assimp/include -IC:/CC/src/sandbox/gl_playground/vendor/glad/include -IC:/CC/src/sandbox/gl_playground/vendor/glfw/include -IC:/CC/src/sandbox/gl_playground/vendor/glm -IC:/CC/src/sandbox/gl_playground/vendor/imgui -IC:/CC/src/sandbox/gl_playground/vendor -IC:/CC/src/sandbox/gl_playground/vendor/spdlog/include -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\vendor\\glad\\src\\glad.c.obj -c C:\\CC\\src\\sandbox\\gl_playground\\vendor\\glad\\src\\glad.c",
+  "file": "C:\\CC\\src\\sandbox\\gl_playground\\vendor\\glad\\src\\glad.c",
+  "output": "demo\\hiTriangle\\CMakeFiles\\hi_triangle.dir\\__\\__\\vendor\\glad\\src\\glad.c.obj"
+}
+]
